@@ -60,3 +60,14 @@ Modules: time, random
 IDE: Visual Studio Code
 
 Version Control: Git + GitHub
+
+
+📅 Submission Details
+
+Course: CIT305 / Data Structures & Algorithms
+
+Week: 12 – Practical Assignment 2
+
+Deadline: November 7
+
+Deliverables: GitHub link + merged demo video
